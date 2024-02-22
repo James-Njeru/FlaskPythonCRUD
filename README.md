@@ -1,1 +1,1 @@
-A CRUD application using Flask and Python.
+A CRUD application using Flask, Python and MySQL db.
